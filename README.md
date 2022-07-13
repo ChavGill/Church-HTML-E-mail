@@ -18,3 +18,7 @@ I originally made it to fit laptop spces but knew I had to make it responsive. A
 ## Takeways/New Lessons
 
 My e-mail account is flooded with e-mails daily. It is cool to be able to create the content I see every day and know that so many companies utilize projects like this.
+
+Other Examples:
+
+HTML Template: https://github.com/ChavGill/html-email-template
