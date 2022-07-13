@@ -3,7 +3,7 @@
 
 A project for my church (and current employer). I wanted to put the skills I've been learning to practical use and being able to collab them with a project for an organization I am passionate about is a bonus on this tech journey.
 
-**Link to project:** https://the-dividends-api.herokuapp.com/
+**Link to project:** https://320churchemail.netlify.app/
 
 ![The Church 3:20 E-mail](https://github.com/ChavGill/ChavGill/blob/main/church%20email.gif)
 
