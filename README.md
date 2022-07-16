@@ -1,4 +1,4 @@
-# Church-HTML-E-mail
+# 320 Church HTML E-mail
 
 
 A project for my church (and current employer). I wanted to put the skills I've been learning to practical use and being able to collab them with a project for an organization I am passionate about is a bonus on this tech journey.
